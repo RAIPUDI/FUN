@@ -1,0 +1,51 @@
+.first
+{
+background-color: pink;
+font-family: 'Pacifico', cursive;
+text-align: center;
+
+padding-top: 50px;
+}
+
+.second{
+  text-align: center;
+
+}
+
+
+.new{
+  text-align: center;
+}
+
+.img1
+{
+  margin-top: 50px;
+  margin-right: 40px;
+  height:200px;
+  width: 200px;
+
+}
+
+
+.img2
+{
+  margin-top: 50px;
+  margin-left: 40px;
+  height: 200px;
+  width: 200px;
+
+}
+
+h1
+{
+  font-family: 'Pacifico', cursive;
+  word-spacing: 20px;
+  padding-top: 100px;
+  margin-left: 20px;
+}
+
+h2
+{
+  margin-top: 20px;
+  color:red;
+}
